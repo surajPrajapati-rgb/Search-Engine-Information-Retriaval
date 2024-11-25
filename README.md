@@ -9,7 +9,7 @@ This project demonstrates how to:
 
 ### Key Features:
 
-* **Web Scraping**: Uses the `requests` library to fetch HTML content and `BeautifulSoup` to parse and extract meaningful text from the website.
+* **Web Scraping**: Uses the python from scratch to parse and extract meaningful text from the website.
 * **Text Preprocessing**: The text is cleaned by removing stopwords and tokenizing the content before analysis.
 * **Cosine Similarity**: Implements the **Cosine Similarity** metric to compute how similar two documents are based on their content.
 
